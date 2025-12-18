@@ -1,1 +1,1 @@
-# pharmacy-management-system-project
+# pharmacy-management-system-project.backend
